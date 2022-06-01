@@ -537,7 +537,7 @@ section {
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
   .content {
-    margin-top: 10vh;
+    margin-top: 30vh;
   }
 
 }
